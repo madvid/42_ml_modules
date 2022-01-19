@@ -7,3 +7,6 @@
 [submodule "ml_module_02"]
 	path = ml_module_02
 	url = https://github.com/madvid/ml_module_02.git
+[submodule "ml_module_03"]
+	path = ml_module_03
+	url = https://github.com/madvid/ml_module_03.git
