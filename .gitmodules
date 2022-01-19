@@ -1,0 +1,3 @@
+[submodule "ml_module_01"]
+	path = ml_module_01
+	url = https://github.com/madvid/ml_module_01.git
